@@ -1,0 +1,2 @@
+This is the logs directory, where scripting will output it's logs.
+To make more room for storage, these logs may be periodically cleared!s

@@ -1,0 +1,2 @@
+This is the temp directory, where temporary files should be stored.
+This directory will be periodically cleared!!

@@ -1,0 +1,1 @@
+This is the data directory, where scripting will store data it is working with.
